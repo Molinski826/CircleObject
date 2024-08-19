@@ -1,0 +1,14 @@
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\CircleObject\CircleObject\obj\Debug\net8.0\CircleObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\CircleObject\CircleObject\obj\Debug\net8.0\CircleObject.AssemblyInfoInputs.cache
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\CircleObject\CircleObject\obj\Debug\net8.0\CircleObject.AssemblyInfo.cs
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\CircleObject\CircleObject\obj\Debug\net8.0\CircleObject.csproj.CoreCompileInputs.cache
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\CircleObject\CircleObject\bin\Debug\net8.0\CircleObject.exe
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\CircleObject\CircleObject\bin\Debug\net8.0\CircleObject.deps.json
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\CircleObject\CircleObject\bin\Debug\net8.0\CircleObject.runtimeconfig.json
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\CircleObject\CircleObject\bin\Debug\net8.0\CircleObject.dll
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\CircleObject\CircleObject\bin\Debug\net8.0\CircleObject.pdb
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\CircleObject\CircleObject\obj\Debug\net8.0\CircleObject.dll
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\CircleObject\CircleObject\obj\Debug\net8.0\refint\CircleObject.dll
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\CircleObject\CircleObject\obj\Debug\net8.0\CircleObject.pdb
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\CircleObject\CircleObject\obj\Debug\net8.0\CircleObject.genruntimeconfig.cache
+C:\Users\molin\OneDrive\Desktop\Lectures and Labs\CircleObject\CircleObject\obj\Debug\net8.0\ref\CircleObject.dll
